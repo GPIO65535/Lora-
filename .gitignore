@@ -1,0 +1,33 @@
+# Keil MDK user-specific files
+*.uvguix.*
+*.uvoptx
+
+# Build outputs and intermediate files
+*.axf
+*.crf
+*.d
+*.dep
+*.htm
+*.lnp
+*.map
+*.o
+*.obj
+*.out
+*.lst
+
+# Common debug/output folders
+Debug/
+Release/
+Listings/
+Objects/
+
+# This project output folder
+Lora/*.axf
+Lora/*.crf
+Lora/*.d
+Lora/*.dep
+Lora/*.htm
+Lora/*.lnp
+
+# IDE local settings
+.vscode/
